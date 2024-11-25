@@ -1,0 +1,23 @@
+# Netscape HTTP Cookie File
+.youtube.com   TRUE    /   TRUE    1893456000  LOGIN_INFO   AFmmF2swRgIhANGdv48Uqp3nBxfixdRSZWcuWHM2HGRgQ4Z-jpkSyGSSAiEAgASnVByT2LR7g9qmdeoNy9oMz3T1sYIxBvnh5zVRN-c:QUQ3MjNmelFtbFVjd0lzSFpyc1FRM1pPbHNSQTN1WndMTXBHakY2blNLWkVLbmxqNkptLWUwWTJreVZmSzlIWG9WbXVta3AycS1HN1RILUFRMFJmTGhGZVdYRWtxVXExUEJzY1pUSUgweWt5QmhOVkFwaGEtbVlDYWtxR1pEcFVWVDFGQTdaSVFwSlVGemdiamkzUUdVNUNRWUMzVTRnQVdn
+.youtube.com   TRUE    /   TRUE    1893456000  VISITOR_INFO1_LIVE   ewXXuB655Qc
+.youtube.com   TRUE    /   TRUE    1893456000  VISITOR_PRIVACY_METADATA   CgJJThIEGgAgJw%3D%3D
+.youtube.com   TRUE    /   TRUE    1893456000  PREF   f4=4000000&f6=40000000&tz=Asia.Calcutta&f5=30000&f7=100
+.youtube.com   TRUE    /   TRUE    1893456000  HSID   ArRycG0qdtx9kDz1O
+.youtube.com   TRUE    /   TRUE    1893456000  SSID   A0r9Cc17zeIYwalwH
+.youtube.com   TRUE    /   TRUE    1893456000  APISID   fEPe5PWYyxAfNHAF/A_BC2XCMeody2EJaT
+.youtube.com   TRUE    /   TRUE    1893456000  SAPISID   jsWQAQTX8LFoLi4j/AcBw5SglX8zUAnS6-
+.youtube.com   TRUE    /   TRUE    1893456000  __Secure-1PAPISID   jsWQAQTX8LFoLi4j/AcBw5SglX8zUAnS6-
+.youtube.com   TRUE    /   TRUE    1893456000  __Secure-3PAPISID   jsWQAQTX8LFoLi4j/AcBw5SglX8zUAnS6-
+.youtube.com   TRUE    /   TRUE    1893456000  SID   g.a000qAiVc6oHIu8pOmiViVep_XBs3qE8QkQcDUoNsuyf91aYwFNFBDT2SYVKMuFie8LJZ5dAIAACgYKAV4SARISFQHGX2Mi1hiVFy7OynmqpHGVNhshoBoVAUF8yKrEKmE_7oA_6qgeNWKD0ob10076
+.youtube.com   TRUE    /   TRUE    1893456000  __Secure-1PSID   g.a000qAiVc6oHIu8pOmiViVep_XBs3qE8QkQcDUoNsuyf91aYwFNF5aLXMXNlue3Vi_STd9aVnQACgYKAe8SARISFQHGX2Milj59CpNlTMlfolDZet6h4hoVAUF8yKrIg4n4E09vl5j-BMcnxcIx0076
+.youtube.com   TRUE    /   TRUE    1893456000  __Secure-3PSID   g.a000qAiVc6oHIu8pOmiViVep_XBs3qE8QkQcDUoNsuyf91aYwFNFKjB4d6sGw70uWqWxsJrrXwACgYKAdMSARISFQHGX2MiNcfp-R99Y7bQIixTILs5zRoVAUF8yKr5ukKptxC9Roxy0x7LLUAS0076
+.youtube.com   TRUE    /   TRUE    1893456000  YSC   unC-CnATRF0
+.youtube.com   TRUE    /   TRUE    1893456000  wide   1
+.youtube.com   TRUE    /   TRUE    1893456000  __Secure-1PSIDTS   sidts-CjIBQT4rX5rfPzyosd5houcnw00NVp3f9hek3PMTIMELBFSK1VTgo78voAUuTdg9HZoOsBAA
+.youtube.com   TRUE    /   TRUE    1893456000  __Secure-3PSIDTS   sidts-CjIBQT4rX5rfPzyosd5houcnw00NVp3f9hek3PMTIMELBFSK1VTgo78voAUuTdg9HZoOsBAA
+.youtube.com   TRUE    /   TRUE    1893456000  SIDCC   AKEyXzUvVMO-pZaZAWZ4NjDCZ95NR0ixaRhFYK7y7T_dVTmufb61SzDh1obzPs4hSA1NOHWaWeE
+.youtube.com   TRUE    /   TRUE    1893456000  __Secure-1PSIDCC   AKEyXzXXE4t-XpMlY2ZQFODhKDAQz7BIR92yu6M5HSyUqPiLysZku1hh8lf2LeiQrZWDKzlcpaA
+.youtube.com   TRUE    /   TRUE    1893456000  __Secure-3PSIDCC   AKEyXzUf9XQOIitdzVbY_6ZqGra3XZJZH6ZuMXt-sVzsyFeayD2OKs6vn1ZezuMjRzN9eeN_-sCO
+
+#yt-dlp cookies.txt
